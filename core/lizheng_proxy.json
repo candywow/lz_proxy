@@ -1,0 +1,26 @@
+{
+	"api_key": "c84e3e0f-afc1-443a-bb03-2d7bc1f6c048",
+    "hub_uuid": "c00d5f0f-88fe-11e4-afd1-14feb5b15cb5",
+    "hub_type": "lizheng",
+    "hub_name": "FYLZ01",
+    "sensors": [
+    	{
+    		"sensor_name": "FengXiang",
+    		"sensor_uuid": "a44db980-8900-11e4-bf55-14feb5b15cb5",
+    		"sensor_type": "fengxiang",
+    		"sensor_unit": "degree"
+    	},
+    	{
+    		"sensor_name": "FengLi",
+    		"sensor_uuid": "ee03a89e-8900-11e4-a38d-14feb5b15cb5",
+    		"sensor_type": "fengli",
+    		"sensor_unit": "m/s"
+    	},
+    	{
+    		"sensor_name": "DaQiYa",
+    		"sensor_uuid": "0ea5ff8f-8901-11e4-a81e-14feb5b15cb5",
+    		"sensor_type": "daqiya",
+    		"sensor_unit": "kPa"
+    	}
+    ]
+}
